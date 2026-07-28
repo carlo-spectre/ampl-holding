@@ -10,12 +10,13 @@ export const site = {
   name: "AMPL",
   domain: "stayampl.com",
   title: "AMPL — Coming Soon",
-  description: "Three moments. One system. AMPL is almost ready — stay close.",
+  description:
+    "Stay Loud. Stay Healthy, Stay AMPL — Enjoy the Moment, Protect Your Morning.",
   headline: {
     line1: "Something’s",
     line2: "charging.",
   },
-  subhead: "Three moments. One system. AMPL is almost ready — stay close.",
+  subhead: "Stay Loud. Stay Healthy, Stay AMPL\nEnjoy the Moment, Protect Your Morning.",
 } as const;
 
 export const links: SocialLink[] = [
