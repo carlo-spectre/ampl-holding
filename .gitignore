@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+.npm-cache/
+AMPL Holding/
 
 # debug
 npm-debug.log*
